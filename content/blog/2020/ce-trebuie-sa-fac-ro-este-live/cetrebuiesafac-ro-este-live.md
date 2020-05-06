@@ -1,6 +1,6 @@
 +++
 author = "Bogdan Ivănel"
-cover = ""
+cover = "/uploads/cetrebuiesafac banner.ro.png"
 date = 2020-03-03T22:00:00Z
 draft = true
 excerpt = ""
